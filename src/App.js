@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <p>What up, app's linked</p>
+          <p>App is connected</p>
           <Nav />
         </header>
       </div>
